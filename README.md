@@ -22,6 +22,6 @@ Authors can add multiple registered users as collaborators. Collaborators can ed
 ##### 6) Run "php artisan serve"
 ##### 7) Open "http://localhost:8000" on your favorite browser
 # VIDEO LINK
-https://youtu.be/lu6k59VRZtY
+[https://youtu.be/lu6k59VRZtY](https://drive.google.com/file/d/15fJvDCbC23pySV-sfH5eN-frcv_l96ik/view?usp=sharing)https://drive.google.com/file/d/15fJvDCbC23pySV-sfH5eN-frcv_l96ik/view?usp=sharing
 
 
